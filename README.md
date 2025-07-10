@@ -1,4 +1,4 @@
-# Code for BART-RAA Training
+#Role-Aware Adapters(RAA)
 Code for paper: Role-Aware Adapters for Dialogue Summarization in Seq2Seq Models
 
 ## Requirements
